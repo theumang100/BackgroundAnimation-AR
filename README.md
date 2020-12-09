@@ -1,2 +1,2 @@
 # BackgroundAnimation-AR
-# This is Bckground animation project made by mr Umang patel
+# Created the AR effect for background changing for facebook Devpost hackathon.
